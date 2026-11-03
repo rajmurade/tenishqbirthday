@@ -59,73 +59,72 @@ export function LetterReveal({ onClose }: LetterRevealProps) {
           className="max-h-[60vh] overflow-y-auto pr-4 text-garden-text space-y-6 md:space-y-7 text-sm md:text-base leading-relaxed font-serif tracking-wide select-text"
         >
           <h2 className="reveal-p text-xl md:text-2xl font-semibold text-white tracking-wide border-b border-white/10 pb-4">
-            For Trasha,
+            Dear Tanishq,
           </h2>
 
           <p className="reveal-p text-garden-accent">
-            There are flowers that bloom for a season,
+            Happy Birthday to the boy who makes my world a little brighter just by being in it.
           </p>
 
           <p className="reveal-p text-garden-accent">
-            and there are souls that make every season feel like spring.
+            I hope life gives you all the happiness your heart can hold.
           </p>
 
           <p className="reveal-p font-medium text-white">
-            You have always been one of those rare souls.
+            I wish you endless smiles, beautiful surprises, and dreams that come true.
           </p>
 
           <p className="reveal-p text-garden-text/90">
-            The kind that brings warmth without trying, <br />
-            comfort without speaking, <br />
-            and joy without asking for anything in return.
+            I may not always find the perfect words to express how much you mean to me, <br />
+            but I hope you never doubt how special you are.
           </p>
 
           <p className="reveal-p text-garden-text/90">
-            The world can often move too fast, <br />
-            yet somehow you carry a gentleness that reminds people <br />
-            to slow down and appreciate what truly matters.
+            If I could wish for one thing today, <br />
+            it would be to keep seeing that beautiful smile of yours, <br />
+            year after year.
           </p>
 
           <p className="reveal-p text-garden-glowPrimary font-medium italic text-center py-4 bg-white/5 rounded-xl border border-white/5">
-            You have a beautiful way of existing.
+            You deserve all the beautiful things life has to offer.
           </p>
 
           <div className="reveal-p space-y-2 text-center text-garden-text/80">
-            <p className="italic">Not loudly.</p>
-            <p className="italic">Not dramatically.</p>
-            <p className="italic">But in a way that leaves every place brighter than before.</p>
+            <p className="italic">More laughter.</p>
+            <p className="italic">More little adventures.</p>
+            <p className="italic">And countless reasons to smile.</p>
           </div>
 
           <p className="reveal-p text-garden-text/90">
-            If kindness had a face, <br />
-            if grace had a voice, <br />
-            if sunshine could walk beside someone,
+            I don't need grand promises or perfect moments, <br />
+            I just want more little moments with you, <br />
+            and more reasons to fall for you every day.
           </p>
 
           <p className="reveal-p text-white font-medium">
-            I imagine it would look a little like you.
+            You will always be someone incredibly special to me.
           </p>
 
           <p className="reveal-p text-garden-accent">
-            Today is your birthday, <br />
-            but this little garden of stars and tulips exists for a different reason:
+            So here's to another year of you, <br />
+            and all the wonderful things waiting ahead.
           </p>
 
           <p className="reveal-p text-garden-glowPrimary text-shadow">
-            to remind you how beautiful you are, <br />
-            not just today, <br />
-            but on every ordinary day in between.
+            If I could wish for one thing, <br />
+            it would be to keep seeing that beautiful smile of yours, <br />
+            year after year.
           </p>
 
           <p className="reveal-p text-xl font-medium pt-4 text-white">
-            Happy Birthday, Trasha.
+            Happy Birthday, my favourite person. ❤️
           </p>
 
           <div className="reveal-p pt-4 border-t border-white/10 flex flex-col items-end">
             <span className="text-xs uppercase tracking-widest text-garden-glowSecondary">
               With love,
             </span>
-            <span className="text-lg font-semibold text-white mt-1">Rishi</span>
+            <span className="text-lg font-semibold text-white mt-1">Azra</span>
           </div>
         </div>
 

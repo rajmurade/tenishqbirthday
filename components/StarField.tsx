@@ -29,7 +29,7 @@ export function StarField() {
       };
     };
 
-    const rng = seedRandom("trasha-birthday-night-garden");
+    const rng = seedRandom("Tanishq-birthday-night-garden");
 
     for (let i = 0; i < 140; i++) {
       starList.push({

@@ -31,7 +31,7 @@ export function ParticleLayer() {
       };
     };
 
-    const rng = seedRandom("trasha-crystal-garden-dust");
+    const rng = seedRandom("Tanishq-crystal-garden-dust");
 
     for (let i = 0; i < 45; i++) {
       const startX = rng() * 100;
